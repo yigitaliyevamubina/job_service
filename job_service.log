@@ -1,0 +1,2 @@
+2024-04-30T18:54:17.955+0500	INFO	app/app.go:90	gRPC Server Listening	{"url": ":9090"}
+2024-04-30T18:54:20.387+0500	INFO	app/root.go:37	user service stops
